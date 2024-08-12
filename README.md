@@ -59,8 +59,8 @@ You need the following tools installed on your computer:
 Clone this repository to your desired folder:
 
 ```sh
-  git clone https://github.com/your-username/your-repo-name.git
-  cd your-repo-name
+  git clone https://github.com/Kingno3l/SEVENZ-HEALTHCARE-BACKEND-DEVELOPER-TEST.git
+  cd SEVENZ-HEALTHCARE-BACKEND-DEVELOPER-TEST
 ```
 
 ### Install
@@ -99,7 +99,7 @@ Start the Laravel development server:
   php artisan serve
 ```
 
-The API will be available at `http://localhost:8000`. Use the following endpoints:
+The API will be available at `http://127.0.0.1:8000`. Use the following endpoints:
 
 - **GET /api/lab-tests**: Retrieves lab test data (requires authentication).
 - **POST /api/submit-medical-data**: Submits medical data (requires authentication).
@@ -118,9 +118,8 @@ To run tests, execute:
 
 👤 **Your Name**
 
-- GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
-- Twitter: [YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- LinkedIn: [YourLinkedInProfile](https://www.linkedin.com/in/YourLinkedInProfile)
+- GitHub: [YourGitHubUsername](https://github.com/kingno3l)
+- LinkedIn: [YourLinkedInProfile](https://www.linkedin.com/in/kingno3l)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -136,13 +135,13 @@ To run tests, execute:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/your-username/your-repo-name/issues).
+Feel free to check the [issues page](https://github.com/kingno3l/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project, kindly drop a star ⭐️ for the [repository](https://github.com/your-username/your-repo-name).
+If you like this project, kindly drop a star ⭐️ for the [repository](https://github.com/kingno3l).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -157,7 +156,3 @@ Special thanks to the contributors and community for their support and feedback.
 This project is licensed under the [MIT License](./LICENSE).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
----
-
-Feel free to replace placeholders (like `your-username`, `your-repo-name`, etc.) with actual information relevant to your project.
