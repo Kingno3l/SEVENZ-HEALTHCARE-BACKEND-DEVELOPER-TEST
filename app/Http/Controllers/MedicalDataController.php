@@ -35,7 +35,7 @@ class MedicalDataController extends Controller
 
             // Structure the data and send it via email
             Mail::send('emails.medical_data', $emailData, function ($message) use ($username) {
-                $message->to('gibelsoft@gmail.com')
+                $message->to('peopleoperations@kompletecare.com')
                     ->subject("{$username} medical data");
             });
 
