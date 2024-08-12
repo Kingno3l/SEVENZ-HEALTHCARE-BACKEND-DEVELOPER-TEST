@@ -22,6 +22,7 @@ Sure! Here’s a GitHub README file formatted according to your specified struct
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
+  - [🧑‍💻 Git Flow ](#-git-flow-)
 
 # 📖 API Overview <a name="about-project"></a>
 
@@ -118,8 +119,8 @@ To run tests, execute:
 
 👤 **Your Name**
 
-- GitHub: [YourGitHubUsername](https://github.com/kingno3l)
-- LinkedIn: [YourLinkedInProfile](https://www.linkedin.com/in/kingno3l)
+- GitHub: [Kingno3l](https://github.com/kingno3l)
+- LinkedIn: [King Immanuel](https://www.linkedin.com/in/kingno3l)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -147,7 +148,7 @@ If you like this project, kindly drop a star ⭐️ for the [repository](https:/
 
 ## 🙏 Acknowledgments <a name="acknowledgments"></a>
 
-Special thanks to the contributors and community for their support and feedback.
+Special thanks to Komplete Care for their support and feedback.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -156,3 +157,10 @@ Special thanks to the contributors and community for their support and feedback.
 This project is licensed under the [MIT License](./LICENSE).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## 🧑‍💻 Git Flow <a name="git-flow"></a>
+
+- **`dev`**: Default branch for ongoing development.
+- **`api-endpoints`**: Branch where the main project implementation is developed.
+- **`lighthouse`**: Branch where bonus features related to Lighthouse GraphQL are implemented.
